@@ -6,7 +6,7 @@ Lab ML Azure - IA900 - Previsão de aluguel de Bikes
 
 -------------
 
-#### Atividade do desafio de projeto: Trabalhando com Machine Learning na Prática no Azure ML - Bootcamp: Azure AI900 - Microsoft - Fundamentos de IA
+#### Atividade do desafio de projeto: Trabalhando com Machine Learning na Prática no Azure ML - Bootcamp DIO: Azure AI900 - Microsoft - Fundamentos de IA
 Esta atividade segue o passo a passo da orientadora Valéria Baptista
 
 Etapas do projeto:
