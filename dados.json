@@ -2,9 +2,9 @@
    "Inputs": { 
      "data": [
        {
-         "day": 24,
-         "mnth": 3,   
-         "year": 2024,
+         "day": 28,
+         "mnth": 1,   
+         "year": 2025,
          "season": 2,
          "holiday": 0,
          "weekday": 1,
